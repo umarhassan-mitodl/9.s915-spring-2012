@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "eb40c9e4-15b3-88fb-8022-a62324152d43",
+  "instructors": {
+    "content": [
+      "6d21c940-bf5c-6ce7-0fab-85536b2fb5da",
+      "e27dc0c5-3212-2b0f-b5a4-073cea66aa3d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8c0fe3ff-cd8d-02c2-3efc-929cf76303f3",
+    "website": "9-s915-developmental-cognitive-neuroscience-spring-2012"
+  },
+  "course_title": "Developmental Cognitive Neuroscience",
+  "course_description": "This course uses neuroscience methods to study the cognitive development of human infants and children. Case studies draw from research on face recognition, language, executive function, representations of objects, number and theory of mind.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.S915",
+  "course_image_thumbnail": {
+    "content": "24b4e772-4e8a-7943-517a-b4e9917b66e7",
+    "website": "9-s915-developmental-cognitive-neuroscience-spring-2012"
+  },
+  "learning_resource_types": [],
+  "site_uid": "f08287e7-1abd-4f2d-be77-1d1115ad0137",
+  "site_short_id": "9.s915-spring-2012",
+  "site_url_path": "courses/9-s915-developmental-cognitive-neuroscience-spring-2012",
+  "title": "Course Metadata"
+}
