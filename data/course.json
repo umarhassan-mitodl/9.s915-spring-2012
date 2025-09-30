@@ -28,6 +28,7 @@
     "website": "9-s915-developmental-cognitive-neuroscience-spring-2012"
   },
   "course_title": "Developmental Cognitive Neuroscience",
+  "hide_download": true,
   "course_description": "This course uses neuroscience methods to study the cognitive development of human infants and children. Case studies draw from research on face recognition, language, executive function, representations of objects, number and theory of mind.\n",
   "department_numbers": [
     "9"
@@ -38,6 +39,7 @@
     "content": "24b4e772-4e8a-7943-517a-b4e9917b66e7",
     "website": "9-s915-developmental-cognitive-neuroscience-spring-2012"
   },
+  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "f08287e7-1abd-4f2d-be77-1d1115ad0137",
   "site_short_id": "9.s915-spring-2012",

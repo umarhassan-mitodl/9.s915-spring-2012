@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section outlines the assignments for the course including weekly
   response papers, presentations, and the final paper.  '
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

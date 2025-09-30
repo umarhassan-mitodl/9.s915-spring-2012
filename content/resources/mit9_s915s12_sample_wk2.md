@@ -6,6 +6,8 @@ description: Example of a response paper on the convergence of neuroscience lite
 file: /courses/9-s915-developmental-cognitive-neuroscience-spring-2012/8c17c08aaa5b5205b54c854ea2e0ba01_MIT9_S915S12_sample_wk2.pdf
 file_size: 85559
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
